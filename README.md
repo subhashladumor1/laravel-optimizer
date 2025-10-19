@@ -1,4 +1,4 @@
-# 🚀 Laravel Optimizer Pro
+# 🚀 Laravel Optimizer
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/subhashladumor/laravel-optimizer.svg?style=flat-square)](https://packagist.org/packages/subhashladumor/laravel-optimizer)
 [![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg?style=flat-square)](https://laravel.com)
