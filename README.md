@@ -446,4 +446,10 @@ If you find this package helpful, please give it a ⭐ on [GitHub](https://githu
 
 ---
 
-**Made with ❤️ for Laravel developers**
+<div align="center">
+
+**Made with ❤️ by [Subhash Ladumor](https://github.com/subhashladumor)**
+
+[⭐ Star this repo](https://github.com/subhashladumor/laravel-multicloud) | [🐛 Report Bug](https://github.com/subhashladumor/laravel-multicloud/issues) | [💡 Request Feature](https://github.com/subhashladumor/laravel-multicloud/issues)
+
+</div>
