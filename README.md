@@ -1,7 +1,8 @@
 # 🚀 Laravel Optimizer Pro
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/subhashladumor/laravel-optimizer.svg?style=flat-square)](https://packagist.org/packages/subhashladumor/laravel-optimizer)
-[![Total Downloads](https://img.shields.io/packagist/dt/subhashladumor/laravel-optimizer.svg?style=flat-square)](https://packagist.org/packages/subhashladumor/laravel-optimizer)
+[![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg?style=flat-square)](https://laravel.com)
+[![PHP Version](https://img.shields.io/packagist/php-v/subhashladumor/laravel-multicloud.svg?style=flat-square)](https://packagist.org/packages/subhashladumor/laravel-multicloud)
 [![License](https://img.shields.io/packagist/l/subhashladumor/laravel-optimizer.svg?style=flat-square)](https://packagist.org/packages/subhashladumor/laravel-optimizer)
 
 **All-in-one Laravel optimization suite for speed, caching, database, frontend, and cleanup.**
@@ -432,24 +433,10 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 - [Performance Optimization Guide](https://laravel.com/docs/deployment#optimization)
 - [Database Query Optimization](https://laravel.com/docs/queries)
 
----
-
-## 🐛 Bug Reports & Feature Requests
-
-Please use the [issue tracker](https://github.com/subhashladumor/laravel-optimizer/issues) to report bugs or request features.
-
----
-
-## ⭐ Show Your Support
-
-If you find this package helpful, please give it a ⭐ on [GitHub](https://github.com/subhashladumor/laravel-optimizer)!
-
----
-
 <div align="center">
 
 **Made with ❤️ by [Subhash Ladumor](https://github.com/subhashladumor)**
 
-[⭐ Star this repo](https://github.com/subhashladumor/laravel-multicloud) | [🐛 Report Bug](https://github.com/subhashladumor/laravel-multicloud/issues) | [💡 Request Feature](https://github.com/subhashladumor/laravel-multicloud/issues)
+[⭐ Star this repo](https://github.com/subhashladumor/laravel-optimizer) | [🐛 Report Bug](https://github.com/subhashladumor/laravel-optimizer/issues) | [💡 Request Feature](https://github.com/subhashladumor/laravel-optimizer/issues)
 
 </div>
